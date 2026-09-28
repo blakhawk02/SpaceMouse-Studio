@@ -25,6 +25,14 @@ Only download the bridge from this repository. Check the SHA-256 value shown in 
 5. Leave the bridge running while using Roblox Studio.
 6. Open the separately installed SpaceMouse Studio plugin and enable camera control.
 
+To start the bridge quietly in the background, open PowerShell in the extracted `bridge` folder and run:
+
+```powershell
+Start-Process ".\SpaceMouseStudioBridge.exe" -WindowStyle Hidden
+```
+
+When the plugin cannot find the bridge, it displays this same selectable start command.
+
 If Studio reports that HTTP requests are disabled, enable **File → Experience Settings → Security → Allow HTTP Requests**. The plugin also provides this selectable Studio Command Bar alternative:
 
 ```luau
