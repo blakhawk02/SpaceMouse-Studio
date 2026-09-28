@@ -6,7 +6,7 @@ SpaceMouse Studio adds proportional six-axis SpaceMouse camera navigation to Rob
 
 ## Download the Windows companion
 
-Download the newest beta from the [latest release](https://github.com/blakhawk02/SpaceMouse-Studio/releases/latest).
+Download the newest beta from the [official releases page](https://github.com/blakhawk02/SpaceMouse-Studio/releases).
 
 The expected release file is:
 
