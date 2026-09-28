@@ -1,0 +1,136 @@
+SPACEMOUSE STUDIO PROPRIETARY BETA LICENSE AGREEMENT
+Version 1.0 — Effective September 27, 2026
+
+Copyright © 2026 CJ Storie. All rights reserved.
+
+IMPORTANT: READ THIS AGREEMENT BEFORE INSTALLING OR USING SPACE MOUSE STUDIO.
+BY INSTALLING, COPYING, ACCESSING, OR USING THE SOFTWARE, YOU ACCEPT THIS
+AGREEMENT. IF YOU DO NOT ACCEPT IT, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. SOFTWARE
+
+“Software” means the SpaceMouse Studio Roblox Studio plugin, the SpaceMouse
+Studio Bridge companion application, accompanying documentation, and updates
+provided by CJ Storie (“Licensor”). This Agreement applies only to Licensor's
+original material. Third-party components remain governed by their own terms.
+
+2. LIMITED BETA LICENSE
+
+Subject to this Agreement, Licensor grants you a limited, non-exclusive,
+non-transferable, non-sublicensable, revocable license to install and use an
+official copy of the Software on computers you control solely for your own
+lawful development work in Roblox Studio. You may make one archival backup copy.
+
+If you acquire the plugin through the Roblox Creator Store, the applicable
+Roblox terms also apply. Where a mandatory platform term conflicts with this
+Agreement, that platform term controls only to the extent necessary to resolve
+the conflict.
+
+3. RESTRICTIONS
+
+Except where applicable law expressly gives you a non-waivable right, you may
+not:
+
+(a) redistribute, publish, upload, host, share, rent, lease, sell, sublicense,
+or otherwise provide the Software or any copy to another person;
+
+(b) modify, adapt, translate, rebrand, create derivative works from, or publish
+modified versions of the Software;
+
+(c) reverse engineer, decompile, disassemble, or attempt to derive source code
+or non-public implementation details from the bridge application;
+
+(d) remove, conceal, or alter copyright, ownership, trademark, attribution,
+license, or other proprietary notices;
+
+(e) represent that you created, own, sponsor, certify, or are the original
+publisher of the Software; or
+
+(f) bypass access, integrity, licensing, or security controls.
+
+No source-code license is granted. Possession or visibility of readable plugin
+code does not grant permission beyond Section 2.
+
+4. OWNERSHIP AND RESERVATION OF RIGHTS
+
+The Software is licensed, not sold. As between you and Licensor, Licensor
+retains all right, title, and interest in Licensor's original material,
+including applicable copyrights and other intellectual-property rights. All
+rights not expressly granted are reserved.
+
+No right to use Licensor's product identity, artwork, or branding is granted
+except as necessary to identify an authorized copy. Third-party names and marks
+remain the property of their respective owners.
+
+5. BETA STATUS; CHANGES; SUPPORT
+
+The Software is prerelease beta software. It may be incomplete, contain errors,
+change without notice, or cease to be available. Licensor has no obligation to
+provide maintenance, support, updates, continued compatibility, or a production
+release. An update may be subject to revised terms presented with that update.
+
+6. PRIVACY AND LOCAL CONNECTION
+
+The beta is designed to exchange controller data between the plugin and bridge
+through 127.0.0.1 on the same computer. The accompanying privacy notice
+describes the beta's current data practices and is incorporated by reference.
+
+7. THIRD-PARTY SOFTWARE AND SERVICES
+
+Microsoft .NET runtime components and any other third-party materials are
+licensed under their respective notices included with the Software. The
+Software also depends on separately obtained products and services, including
+Roblox Studio and, for supported hardware, 3DxWare. Licensor does not license or
+control those third-party products. Their terms apply separately.
+
+8. TERMINATION
+
+This Agreement remains effective until terminated. Your license terminates
+automatically if you breach it. Upon termination, you must stop using and
+delete all copies of the Software under your control, except records that law
+requires you to retain. Sections 3, 4, and 9 through 13 survive termination.
+
+9. DISCLAIMER OF WARRANTIES
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED “AS IS” AND
+“AS AVAILABLE,” WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND, EXPRESS,
+IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, OR UNINTERRUPTED OR
+ERROR-FREE OPERATION. SOME JURISDICTIONS DO NOT ALLOW CERTAIN DISCLAIMERS, SO
+SOME OF THIS SECTION MAY NOT APPLY TO YOU.
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR WILL NOT BE LIABLE FOR ANY
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+OR FOR LOST PROFITS, REVENUE, DATA, USE, OR BUSINESS INTERRUPTION, ARISING FROM
+OR RELATING TO THE SOFTWARE OR THIS AGREEMENT, EVEN IF ADVISED OF THE
+POSSIBILITY. LICENSOR'S TOTAL AGGREGATE LIABILITY WILL NOT EXCEED THE AMOUNT YOU
+PAID LICENSOR FOR THE SOFTWARE DURING THE TWELVE MONTHS BEFORE THE EVENT GIVING
+RISE TO THE CLAIM, OR TEN U.S. DOLLARS IF YOU PAID NOTHING. THESE LIMITATIONS
+APPLY ONLY TO THE EXTENT PERMITTED BY LAW.
+
+11. GOVERNING LAW AND VENUE
+
+This Agreement is governed by the laws of the State of New Mexico, without
+regard to conflict-of-law rules. Subject to any non-waivable consumer right,
+the state and federal courts located in New Mexico have exclusive jurisdiction
+over disputes arising from this Agreement, and each party consents to that
+jurisdiction and venue.
+
+12. SEVERABILITY; WAIVER; ASSIGNMENT
+
+If a provision is held unenforceable, it will be enforced to the maximum extent
+permitted and the remaining provisions will remain effective. Failure to
+enforce a provision is not a waiver. You may not assign this Agreement without
+Licensor's prior written consent. Licensor may assign it with the Software or
+the associated business or intellectual-property rights.
+
+13. ENTIRE AGREEMENT
+
+This Agreement, the incorporated privacy notice, applicable third-party
+notices, and mandatory platform terms constitute the entire agreement regarding
+your use of the Software and supersede prior beta-software license statements.
+
+This license is a project-specific beta draft and has not been certified as a
+substitute for advice from a licensed attorney.

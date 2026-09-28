@@ -1,0 +1,4 @@
+release-assets/
+*.exe
+*.zip
+*.pdb
